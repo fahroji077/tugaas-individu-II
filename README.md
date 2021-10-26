@@ -20,9 +20,11 @@
     ketika di run, perhatikan bagian bawah **terminal** kata "Hello World" udah ada padaa tampilan,maka itu berarti perintah kita sukses.
     
     **CMD**
-    Langakah awal yaitu masuk pada menu file kemudian cari file python yang kita buat,sepeti pada gambar dibawah ini!
+    Langakah awal yaitu masuk pada menu file kemudian cari file python yang kita buat,sepeti pada gambar dibawah ini, lalu tekan enter!
     ![Screenshot (7)](https://user-images.githubusercontent.com/93015185/138893841-68d2384c-036d-470c-8385-eb5008001b36.png)
-    setelah itu lakukan langkah sepeti dibawah ini!
+    setelah itu akan muncul tampilan seperti pada gambar dibawah ini!
+    ![Screenshot (8)](https://user-images.githubusercontent.com/93015185/138894256-5c59c434-ecba-439e-978a-c7614d73bb8e.png)
+    
     
 
 
