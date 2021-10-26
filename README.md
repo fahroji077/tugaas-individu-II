@@ -14,7 +14,9 @@
     kemudian masukan perintah seperti gambar dibawah ini!
     ![Screenshot (5)](https://user-images.githubusercontent.com/93015185/138887168-0a4a56a0-0c37-4a21-b8a2-c598e5f828e1.png)
     
-    sete;ah masukan perintahnya, lalu klik "run" pada pojok bagian kanan seperti yang tertanda pada gambar diatas.
+    setelah masukan perintahnya, lalu klik "run" pada pojok bagian kanan seperti yang tertanda pada gambar dibawah ini!.
+    ![Screenshot (6)_LI](https://user-images.githubusercontent.com/93015185/138893419-7397c2c9-d0d0-4087-85d4-0fd81c8e2b7c.jpg)
+
     ketika di run, perhatikan bagian bawah **terminal** kata "Hello World" udah ada padaa tampilan,maka itu berarti perintah kita sukses.
     
     **CMD**
