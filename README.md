@@ -25,6 +25,9 @@
     setelah itu akan muncul tampilan seperti pada gambar dibawah ini!
     ![Screenshot (8)](https://user-images.githubusercontent.com/93015185/138894256-5c59c434-ecba-439e-978a-c7614d73bb8e.png)
     
+   setelah itu kita panggil file python tadi, dengan cara ketik "python belajar.py" kemudian akan muncul seperti gambar dibawah, dan program berjalan lancar.
+   ![Screenshot (9)_LI](https://user-images.githubusercontent.com/93015185/138894741-50b0484e-5c7d-448a-b867-616ace249f7a.jpg)
+    
     
 
 
