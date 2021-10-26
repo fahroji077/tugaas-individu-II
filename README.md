@@ -10,6 +10,17 @@
     **VS-Code**
     langakah awal yaitu masuk pada VS-Code,lalu bikin folder baru dengan cara klik ikon seperti gambar dibawah ini!
     ![Screenshot (4)_LI](https://user-images.githubusercontent.com/93015185/138885881-268505f9-bc5a-4d29-bc7a-6f8bf4dfdec3.jpg)
+    
+    kemudian masukan perintah seperti gambar dibawah ini!
+    ![Screenshot (5)](https://user-images.githubusercontent.com/93015185/138887168-0a4a56a0-0c37-4a21-b8a2-c598e5f828e1.png)
+    
+    sete;ah masukan perintahnya, lalu klik "run" pada pojok bagian kanan seperti yang tertanda pada gambar diatas.
+    ketika di run, perhatikan bagian bawah **terminal** kata "Hello World" udah ada padaa tampilan,maka itu berarti perintah kita sukses.
+    
+    **CMD**
+    Langakah awal yaitu masuk pada menu file kemudian cari file python yang kita buat,sepeti pada gambar dibawah ini!
+    
+
 
 
   
