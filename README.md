@@ -7,5 +7,9 @@
 3. jelaskan arti dari => print(Hello World") pada PL python?
     seperti yang kita ketahui **fungsi print()** berguna untuk mencetak, maka arti dari perintah padaa soal adaalah mencetak kata "Hello World"
 4. praktik menjalankan python pada VS-Code dan CMD!
+    **VS-Code**
+    langakah awal yaitu masuk pada VS-Code,lalu bikin folder baru dengan cara klik ikon seperti gambar dibawah ini!
+    ![Screenshot (4)_LI](https://user-images.githubusercontent.com/93015185/138885881-268505f9-bc5a-4d29-bc7a-6f8bf4dfdec3.jpg)
+
 
   
