@@ -21,6 +21,8 @@
     
     **CMD**
     Langakah awal yaitu masuk pada menu file kemudian cari file python yang kita buat,sepeti pada gambar dibawah ini!
+    ![Screenshot (7)](https://user-images.githubusercontent.com/93015185/138893841-68d2384c-036d-470c-8385-eb5008001b36.png)
+    setelah itu lakukan langkah sepeti dibawah ini!
     
 
 
